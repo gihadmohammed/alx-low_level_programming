@@ -1,9 +1,8 @@
 #include <stdlib.h>
-
 #include <time.h>
 #include <stdint.h>
 #include <string.h>
-#include <avr/io.h>
+
 #include <Display.h>
 #include <GlobalTime.h>
 /* more headers goes there */
