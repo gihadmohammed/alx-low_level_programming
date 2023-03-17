@@ -1,5 +1,11 @@
 #include <stdlib.h>
+#include <stdlio.h>
 #include <time.h>
+#include <stdint.h>
+#include <string.h>
+#include <avr/io.h>
+#include <Display.h>
+#include <GlobalTime.h>
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
