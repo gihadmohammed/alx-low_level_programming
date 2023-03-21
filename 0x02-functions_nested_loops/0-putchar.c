@@ -6,7 +6,7 @@
 	 */
 
 
-	int main(void)
+	int main(void)//for include the putchar
 	{
 	_putchar('_');
 	_putchar('p');
