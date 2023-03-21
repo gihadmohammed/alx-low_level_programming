@@ -1,8 +1,12 @@
-
 #include "main.h"
-	
+	/**
+	 * main - print _putchar
+	 * is written by mbah
+	 * Return: 0
+	 */
+
+
 	int main(void)
-// write your code
 	{
 	_putchar('_');
 	_putchar('p');
@@ -15,6 +19,3 @@
 	_putchar('\n');
 	return (0);
 	}
-
-
-
