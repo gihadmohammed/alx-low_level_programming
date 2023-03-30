@@ -7,15 +7,15 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "{file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "{fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "{fileDirname}"
             },
             "problemMatcher": [
-                "$gcc"
+                "gcc"
             ],
             "group": {
                 "kind": "build",
