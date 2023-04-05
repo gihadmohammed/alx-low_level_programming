@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "MAIN.C": "cpp",
-        "main.h": "c"
+        "main.h": "c",
+        "1-PRINT_REV_RECURSION.C": "cpp"
     }
 }
