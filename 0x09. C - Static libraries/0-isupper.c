@@ -13,8 +13,4 @@ int _isupper(int c)
 	else
 	return (0);
 }
- 
-after typing  this code (press Esc key on your keyboard  and type in :wq) (enter) 
-
-use your betty to check your code 
 
