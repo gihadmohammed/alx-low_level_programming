@@ -3,7 +3,8 @@
         "MAIN.C": "cpp",
         "main.h": "c",
         "1-PRINT_REV_RECURSION.C": "cpp",
-        "2-STRLEN_RECURSION.C": "cpp"
+        "2-STRLEN_RECURSION.C": "cpp",
+        "MAIN.H": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
