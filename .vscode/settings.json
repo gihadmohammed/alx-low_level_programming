@@ -4,7 +4,13 @@
         "main.h": "c",
         "1-PRINT_REV_RECURSION.C": "cpp",
         "2-STRLEN_RECURSION.C": "cpp",
-        "MAIN.H": "cpp"
+        "MAIN.H": "cpp",
+        "0-BINARY_TO_UINT.C": "cpp",
+        "1-PRINT_BINARY.C": "cpp",
+        "2-GET_BIT.C": "cpp",
+        "3-SET_BIT.C": "cpp",
+        "4-CLEAR_BIT.C": "cpp",
+        "5-FLIP_BITS.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
