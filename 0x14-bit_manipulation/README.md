@@ -1,4 +1,2 @@
- C - Bit manipulation :file_folder:
-
- Tests :heavy_check_mark:
-
+Project
+0x14. C - Bit Manipulation
