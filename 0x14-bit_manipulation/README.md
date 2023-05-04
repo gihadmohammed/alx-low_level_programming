@@ -1,5 +1,4 @@
-# C - Bit manipulation :file_folder:
+ C - Bit manipulation :file_folder:
 
-
-## Tests :heavy_check_mark:
+ Tests :heavy_check_mark:
 
